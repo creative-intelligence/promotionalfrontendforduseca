@@ -1,0 +1,61 @@
+.my-container {
+  /* background-color: aqua; */
+}
+
+.content {
+  display: flex;
+  gap: 1rem;
+  /* margin-left: 10rem; */
+  flex-wrap: wrap;
+
+  /* width: 100%; */
+}
+
+.welc {
+  flex: 1 1 40rem;
+  /* max-width: 900px; */
+  margin-top: 4rem;
+  padding: 2rem 4rem 0 3rem;
+}
+
+.welc h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+
+}
+
+.welc-box p {
+  color: #B79F8E;
+  padding-right: 2.5rem;
+}
+
+
+
+.welc h1 span {
+  color: #B79F8E;
+}
+
+.welc-box {
+  max-width: 550px;
+  margin-top: 4rem
+}
+
+
+.o-phone {
+  flex: 1 1 15rem;
+  margin-top: 4.4rem;
+  width: 100%;
+  /* background-color: red; */
+  /* justify-content: flex-end; */
+  /* align-items: flex-start; */
+}
+
+.o-phone img {
+  max-width: 100vh;
+  height: auto;
+}
+
+.Social {
+  display: flex;
+}
